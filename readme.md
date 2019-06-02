@@ -18,16 +18,16 @@
 3. Once the movie you're after appears in the right pane, click add to wishlist to add it to your wishlist
 
 ![step 04](images/step04.png)
-4. The movie will now appear in the left pane in your wishlsit
+4. The movie will now appear in the left pane in your wishlist
 
 ![step 05](images/step05.png)
 5. To remove a movie from your wishlist, first click on the movie in your wishlist and then click remove from wishlist
 
-![step 06](images/step06.png)
+![step 06](images/step06.PNG)
 6. The movie will no longer be in your wishlist
 
-![step 07](images/step07.png)
+![step 07](images/step07.PNG)
 7. If you wish to edit your account information, click edit profile
 
-![step 08](images/step08.png)
+![step 08](images/step08.PNG)
 8. Make the changes you'd like to your information then click update
