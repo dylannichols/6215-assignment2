@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/dylannichols/6215-Assignment2-API.git
+[submodule "gui"]
+	path = gui
+	url = https://github.com/dylannichols/6215-assignment2-WPF.git
