@@ -1,0 +1,3 @@
+# Why I chose WPF
+
+We were restricted to dotnet GUIs. Out of these I chose to use WPF for several reasons. Firstly, I chose it due to it being responsive when compared to Windows Forms, users may wish to use the application on a variety of monitor sizes and so can scale the application up as needed. XAML, the language used to create WPF applications, makes it much easier to create and edit complex user interfaces in a declarative way than a menu based approach such as WinForms. This also extends to data binding, such as is necessary for the Data Grid used to display the user's wishlist inside the application. Data binding in WPF is much better than Windows Forms.
