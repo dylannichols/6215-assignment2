@@ -3,16 +3,19 @@
 ## Setup Information
 
 ![setup01](images/setup01.PNG)
+
 1. If you are using your own database, change the connection string inside of Startup.cs inside of the api folder to match your connection data
 
 ![setup02](images/setup02.PNG)
+
 2. If you are using the default front end, make sure you change all instances of Apiroot to match where the api is running
 
 ![setup02](images/setup03.PNG)
+
 3. To run the api, inside of a bash shell `cd` into the api directory and use the command `dotnet run`
 
 
-## Api Guide
+## API Guide
 
 ### `GET /movies`
 * Returns a collection of all movies stored in the database. 
